@@ -1,4 +1,4 @@
-# Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
+# Exp_MG No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
 
 ## Aim
 
@@ -43,17 +43,18 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Circuit Diagram
 
 ### 1. Schematic of Full Custom 2:1 MUX
-![WhatsApp Image 2025-03-22 at 11 24 31_a29ec0c0](https://github.com/user-attachments/assets/494be6ed-46d8-445d-ae44-9e41b324d975)
-![WhatsApp Image 2025-03-22 at 11 24 31_71e5a905](https://github.com/user-attachments/assets/95897823-0731-4e47-9a81-26d2eb918f0d)
-
+![WhatsApp Image 2025-03-22 at 11 24 31_d04b0624](https://github.com/user-attachments/assets/05a8cec9-8d9e-46a3-99da-9c247b80e3c7)
+![WhatsApp Image 2025-03-22 at 11 24 31_c7163e37](https://github.com/user-attachments/assets/4938c0d3-e0b9-40d4-a686-15edfbca7e37)
 
 ### 2. Transient Response Setup
-![WhatsApp Image 2025-03-22 at 11 24 32_4c70a59f](https://github.com/user-attachments/assets/875f0e52-5be8-4119-aec0-cb8bf18f3f6c)
+![WhatsApp Image 2025-03-22 at 11 24 32_2f071ed0](https://github.com/user-attachments/assets/e78614bf-a914-4d11-bc92-3cbe9d0faee1)
+
 
 ## Output
 
 ### 1. Transient Analysis Output
-![WhatsApp Image 2025-03-22 at 11 24 31_d640945b](https://github.com/user-attachments/assets/8d5abd4f-a02b-46c5-826b-c994fc289216)
+![WhatsApp Image 2025-03-22 at 11 24 31_703eeee1](https://github.com/user-attachments/assets/f1f35c57-8e9d-49af-b415-0644fd8869f6)
+
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
