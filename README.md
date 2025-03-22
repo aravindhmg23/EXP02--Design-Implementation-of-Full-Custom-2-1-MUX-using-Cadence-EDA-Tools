@@ -43,17 +43,17 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Circuit Diagram
 
 ### 1. Schematic of Full Custom 2:1 MUX
-![WhatsApp Image 2025-03-21 at 12 35 24_bb0d7dd6](https://github.com/user-attachments/assets/72348f56-a2c5-4ca8-9662-735b91458fad)
-![WhatsApp Image 2025-03-21 at 12 35 23_e8a54d9d](https://github.com/user-attachments/assets/09cd1711-42c3-4fbf-b507-955e8709a85a)
+![WhatsApp Image 2025-03-22 at 11 24 31_a29ec0c0](https://github.com/user-attachments/assets/494be6ed-46d8-445d-ae44-9e41b324d975)
+![WhatsApp Image 2025-03-22 at 11 24 31_71e5a905](https://github.com/user-attachments/assets/95897823-0731-4e47-9a81-26d2eb918f0d)
+
 
 ### 2. Transient Response Setup
-![WhatsApp Image 2025-03-21 at 12 35 23_25d5b72d](https://github.com/user-attachments/assets/7ca7b651-960f-4faa-b04f-555cb5ea39fd)
-![WhatsApp Image 2025-03-21 at 12 35 24_ee82d344](https://github.com/user-attachments/assets/0228d1d0-833c-4dce-9eb2-06f37f0ee118)
+![WhatsApp Image 2025-03-22 at 11 24 32_4c70a59f](https://github.com/user-attachments/assets/875f0e52-5be8-4119-aec0-cb8bf18f3f6c)
 
 ## Output
 
 ### 1. Transient Analysis Output
-![WhatsApp Image 2025-03-21 at 12 35 24_23480190](https://github.com/user-attachments/assets/d9ccfa2c-9ee5-4671-9a78-aa2bb973533a)
+![WhatsApp Image 2025-03-22 at 11 24 31_d640945b](https://github.com/user-attachments/assets/8d5abd4f-a02b-46c5-826b-c994fc289216)
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
